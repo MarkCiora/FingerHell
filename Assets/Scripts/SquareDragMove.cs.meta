@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ffcda843a4e25e54fb6e79e55dd59bd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - end_prefab: {fileID: 1073614736977948328, guid: 22bc0e4b3c347b247b9e2aa301af24bf, type: 3}
+  - start_prefab: {fileID: 3587276547527009910, guid: 74fe9e5a50adfb84aa72424662473042, type: 3}
+  - obstacle_prefab: {fileID: 1886685620287517622, guid: 1ea87c4a5ffc4be429e82a65da85d94f, type: 3}
+  - player_prefab: {fileID: 6787663230316847723, guid: b0664484b4d00e74abe2d5e0ec78bffc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
